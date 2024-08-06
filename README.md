@@ -2,6 +2,7 @@
 
 Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters.
 Designed ETL mappings with SQL to pull data from unstructured sources, transformed and cleaned it in the staging area, and built a star schema data model in Tableau.
+
 Outline of Project Goals and Planning
 
 Key Participants: Who are the stakeholders?
