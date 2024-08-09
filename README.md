@@ -20,11 +20,10 @@ Tableau: For data visualization and dashboard creation.
 Microsoft Excel: Used as the data source for the Tableau dashboard.
 Key Insights
 Total Sales:
-
 May was a peak month with total sales of 0.70M.
 Total revenue across all markets amounted to 36.33M.
-Revenue by Markets:
 
+Revenue by Markets:
 Market 005 generated the highest revenue, significantly outperforming other markets.
 Top 5 Products:
 
